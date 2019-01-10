@@ -6,7 +6,8 @@
     <Authors>Jonathan Hood</Authors>
     <Company />
     <Description>The PDF Archive Reader is able to pull the embedded files out of a PDF document.</Description>
-    <Copyright>2018 by Jonathan Hood</Copyright>
+    <Copyright>2018–2019 by Jonathan Hood</Copyright>
+    <PackageLicenseUrl>https://www.gnu.org/licenses/agpl.html</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
