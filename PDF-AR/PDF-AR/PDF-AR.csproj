@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>Jonathan Hood</Authors>
+    <Company />
+    <Description>The PDF Archive Reader is able to pull the embedded files out of a PDF document.</Description>
+    <Copyright>2018 by Jonathan Hood</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="iTextSharp" Version="5.5.13" />
+  </ItemGroup>
+
+</Project>
